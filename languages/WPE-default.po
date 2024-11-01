@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPE\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-01-18 22:06+0830\n"
+"PO-Revision-Date: 2012-01-18 22:06+0830\n"
+"Last-Translator: Bolo <cantonbolo@gmail.com>\n"
+"Language-Team: Bolo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wp-emoji.php:20
+msgid "WP-Emoji is ready."
+msgstr ""
+
+#: ../wp-emoji.php:20
+#, php-format
+msgid "But you also need to do some <a href=\"%1$s\">settings</a> make WP-Emoji work."
+msgstr ""
+
+#: ../wp-emoji.php:66
+msgid "WP-Emoji Settings"
+msgstr ""
+
+#: ../wp-emoji.php:81
+#: ../wp-emoji.php:85
+msgid "Emoji Settings"
+msgstr ""
+
+#: ../wp-emoji.php:90
+msgid "Where need to convert Emoji Fonts?"
+msgstr ""
+
+#: ../wp-emoji.php:93
+msgid "Posts"
+msgstr ""
+
+#: ../wp-emoji.php:94
+msgid "Comments"
+msgstr ""
+
+#: ../wp-emoji.php:95
+msgid "Posts include all post types."
+msgstr ""
+
+#: ../wp-emoji.php:100
+msgid "Emoji fonts convert to...?"
+msgstr ""
+
+#: ../wp-emoji.php:104
+msgid "Shortcode"
+msgstr ""
+
+#: ../wp-emoji.php:105
+msgid "Image"
+msgstr ""
+
+#: ../wp-emoji.php:111
+msgid "Save"
+msgstr ""
+

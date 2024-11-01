@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPE\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-01-18 22:07+0830\n"
+"PO-Revision-Date: 2012-01-18 22:08+0830\n"
+"Last-Translator: Bolo <cantonbolo@gmail.com>\n"
+"Language-Team: Bolo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wp-emoji.php:20
+msgid "WP-Emoji is ready."
+msgstr "WP-Emoji 已经准备就绪。"
+
+#: ../wp-emoji.php:20
+#, php-format
+msgid "But you also need to do some <a href=\"%1$s\">settings</a> make WP-Emoji work."
+msgstr "但你还需要完成一些<a href=\"%1$s\">设置</a>，WP-Emoji 才能正常工作。"
+
+#: ../wp-emoji.php:66
+msgid "WP-Emoji Settings"
+msgstr "WP-Emoji 设置"
+
+#: ../wp-emoji.php:81
+#: ../wp-emoji.php:85
+msgid "Emoji Settings"
+msgstr "Emoji 设置"
+
+#: ../wp-emoji.php:90
+msgid "Where need to convert Emoji Fonts?"
+msgstr "需要转换 Emoji 字符的地方"
+
+#: ../wp-emoji.php:93
+msgid "Posts"
+msgstr "文章"
+
+#: ../wp-emoji.php:94
+msgid "Comments"
+msgstr "评论"
+
+#: ../wp-emoji.php:95
+msgid "Posts include all post types."
+msgstr "文章包括所有文章类型"
+
+#: ../wp-emoji.php:100
+msgid "Emoji fonts convert to...?"
+msgstr "把 Emoji 字符转换为"
+
+#: ../wp-emoji.php:104
+msgid "Shortcode"
+msgstr "短代码"
+
+#: ../wp-emoji.php:105
+msgid "Image"
+msgstr "图片"
+
+#: ../wp-emoji.php:111
+msgid "Save"
+msgstr "保存"
+
